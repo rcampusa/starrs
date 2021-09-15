@@ -8,6 +8,7 @@
   - [Batchfile](#batchfile)
   - [C](#c)
   - [C++](#c++)
+  - [Elm](#elm)
   - [Emacs Lisp](#emacs-lisp)
   - [Go](#go)
   - [HTML](#html)
@@ -17,6 +18,7 @@
   - [Others](#others)
   - [PHP](#php)
   - [Python](#python)
+  - [SCSS](#scss)
   - [Shell](#shell)
   - [Stata](#stata)
   - [Swift](#swift)
@@ -35,18 +37,26 @@
 - [disk91/WioLoRaWANFieldTester](https://github.com/disk91/WioLoRaWANFieldTester) - 
 - [jcarolinares/M5stack-programs](https://github.com/jcarolinares/M5stack-programs) - A M5stack repository with useful and interesting programs
 
+## Elm 
+
+- [gingko/client](https://github.com/gingko/client) - Gingko Writer. Tree-based writing software, written in Elm.
+
 ## Emacs Lisp 
 
 - [org-roam/org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
 
 ## Go 
 
+- [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [sniptt-official/ots](https://github.com/sniptt-official/ots) - 🔐 Share end-to-end encrypted secrets with others via a one-time URL
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 
 ## HTML 
 
+- [chiphuyen/requests-for-research](https://github.com/chiphuyen/requests-for-research) - A living collection of deep learning problems
+- [chiphuyen/ml-interviews-book](https://github.com/chiphuyen/ml-interviews-book) - https://huyenchip.com/ml-interviews-book/
+- [ojroques/hugo-researcher](https://github.com/ojroques/hugo-researcher) - A simple resume theme for Hugo
 - [ledwindra/today-i-learned](https://github.com/ledwindra/today-i-learned) - A list of my #TILs. 📝
 - [yihui/hugo-xmin](https://github.com/yihui/hugo-xmin) - eXtremely Minimal Hugo theme: about 150 lines of code in total, including HTML and CSS (with no dependencies)
 - [techno-tim/techno-tim.github.io](https://github.com/techno-tim/techno-tim.github.io) - Documentation for Techno Tim YouTube Videos
@@ -58,6 +68,8 @@
 
 ## Jupyter Notebook 
 
+- [chiphuyen/python-is-cool](https://github.com/chiphuyen/python-is-cool) - Cool Python features for machine learning that I used to be too afraid to use. Will be updated as I have more time / learn more.
+- [chiphuyen/just-pandas-things](https://github.com/chiphuyen/just-pandas-things) - An ongoing list of pandas quirks
 - [gboeing/latin-america-streets](https://github.com/gboeing/latin-america-streets) - 
 - [gboeing/2014-summer-travels](https://github.com/gboeing/2014-summer-travels) - Python-based spatial data analysis and visualization of the GPS location data from my 2014 summer travels.
 - [gboeing/dissertation-manuscript](https://github.com/gboeing/dissertation-manuscript) - 
@@ -78,6 +90,9 @@
 
 ## Others 
 
+- [chiphuyen/chiphuyen](https://github.com/chiphuyen/chiphuyen) - 
+- [eugeneyan/my-cs-degree](https://github.com/eugeneyan/my-cs-degree) - A CS degree I designed for myself, 2020
+- [binhex/documentation](https://github.com/binhex/documentation) - Documentation for software located in the binhex repositories.
 - [SelfhostedPro/selfhosted_templates](https://github.com/SelfhostedPro/selfhosted_templates) - Portainer templates for selfhosted services
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [Dave-team/Knowledge-base](https://github.com/Dave-team/Knowledge-base) - 
@@ -93,10 +108,13 @@
 
 ## PHP 
 
+- [kapdap/freshrss-extensions](https://github.com/kapdap/freshrss-extensions) - Unofficial FreshRSS extensions created by @Kapdap.
 - [MohamedElashri/Zotero-Docker](https://github.com/MohamedElashri/Zotero-Docker) - Docker version of Zotero dataserver and web library combined.
 
 ## Python 
 
+- [chiphuyen/coding-exercises](https://github.com/chiphuyen/coding-exercises) - My implementation of useful data structures, algorithms,  as well as my solutions to programming puzzles.
+- [chiphuyen/lazynlp](https://github.com/chiphuyen/lazynlp) - Library to scrape and clean web pages to create massive datasets.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [iamwillbar/calibre-plugin-readwise](https://github.com/iamwillbar/calibre-plugin-readwise) - Calibre plugin to export your highlights to Readwise. This plugin is not supported by Readwise - please report any issues in this repository.
 - [fallaciousreasoning/CalibreLibgenStore](https://github.com/fallaciousreasoning/CalibreLibgenStore) - A Libgen Fiction store plugin for Calibre
@@ -108,8 +126,14 @@
 - [trinib/AdGuard-WireGuard-Unbound-Cloudflare](https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare) - Put a 🍓Raspberry-Pi🍰  to good use and get 🔒 protection | 🔎 privacy | 🚀 performance on your home network 24/7 🕛 Accessible anywhere 🌏🌑
 - [blacktwin/JBOPS](https://github.com/blacktwin/JBOPS) - Just a Bunch Of Plex Scripts
 
+## SCSS 
+
+- [jakewies/hugo-theme-codex](https://github.com/jakewies/hugo-theme-codex) - A minimal blog theme for Hugo  🍜
+- [zhengzangw/hugo-theme-phd](https://github.com/zhengzangw/hugo-theme-phd) - A simple hugo theme for researcher.
+
 ## Shell 
 
+- [bcardiff/docker-rclone](https://github.com/bcardiff/docker-rclone) - Docker image to use rclone to run cron sync with monitoring
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [SpartacusIam/unraid-scripts](https://github.com/SpartacusIam/unraid-scripts) - 
 
