@@ -8,16 +8,22 @@
   - [Batchfile](#batchfile)
   - [C](#c)
   - [C++](#c++)
+  - [CSS](#css)
   - [Elm](#elm)
   - [Emacs Lisp](#emacs-lisp)
   - [Go](#go)
   - [HTML](#html)
+  - [Java](#java)
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter-notebook)
+  - [Lua](#lua)
+  - [Makefile](#makefile)
   - [Nim](#nim)
+  - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
   - [Python](#python)
+  - [Ruby](#ruby)
   - [SCSS](#scss)
   - [Shell](#shell)
   - [Stata](#stata)
@@ -37,6 +43,10 @@
 - [disk91/WioLoRaWANFieldTester](https://github.com/disk91/WioLoRaWANFieldTester) - 
 - [jcarolinares/M5stack-programs](https://github.com/jcarolinares/M5stack-programs) - A M5stack repository with useful and interesting programs
 
+## CSS 
+
+- [bcdavasconcelos/Themes](https://github.com/bcdavasconcelos/Themes) - Themes I either made or adapted for Alfred, Connected Text, Folding Text, Golden Dict, Obsidian, OmniOutliner, Outlinely, Scapple, Scrivener, Tinderbox, and Ulysses.
+
 ## Elm 
 
 - [gingko/client](https://github.com/gingko/client) - Gingko Writer. Tree-based writing software, written in Elm.
@@ -54,6 +64,7 @@
 
 ## HTML 
 
+- [JakeHartnell/HypothesisReader](https://github.com/JakeHartnell/HypothesisReader) - An integration of Hypothes.is and Epub.js
 - [chiphuyen/requests-for-research](https://github.com/chiphuyen/requests-for-research) - A living collection of deep learning problems
 - [chiphuyen/ml-interviews-book](https://github.com/chiphuyen/ml-interviews-book) - https://huyenchip.com/ml-interviews-book/
 - [ojroques/hugo-researcher](https://github.com/ojroques/hugo-researcher) - A simple resume theme for Hugo
@@ -61,8 +72,17 @@
 - [yihui/hugo-xmin](https://github.com/yihui/hugo-xmin) - eXtremely Minimal Hugo theme: about 150 lines of code in total, including HTML and CSS (with no dependencies)
 - [techno-tim/techno-tim.github.io](https://github.com/techno-tim/techno-tim.github.io) - Documentation for Techno Tim YouTube Videos
 
+## Java 
+
+- [jlegewie/zotfile](https://github.com/jlegewie/zotfile) - Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations.
+
 ## JavaScript 
 
+- [chhoumann/Templater_Templates](https://github.com/chhoumann/Templater_Templates) - My templates for the Templater Obsidian.md plugin.
+- [rdmpage/recon16-annotation](https://github.com/rdmpage/recon16-annotation) - Code for recon16 hack day
+- [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.
+- [chrisgrieser/shimmering-obsidian](https://github.com/chrisgrieser/shimmering-obsidian) - Alfred Workflow for various enhancements of Obsidian.
+- [fabiospampinato/phoenix](https://github.com/fabiospampinato/phoenix) - My Phoenix setup. Powerful, easy to customize, tuned for web development, adds a space switcher.
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated interview preparation materials for busy engineers
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
@@ -84,12 +104,25 @@
 - [ledwindra/replication-code-economics](https://github.com/ledwindra/replication-code-economics) - Track publicly available replication codes/supplemental materials in economics (currently top 10) journals
 - [wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic) - 🎓 创建一个学术网站. Easily create a beautiful academic résumé or educational website using Hugo, GitHub, and Netlify.
 
+## Lua 
+
+- [voostindie/hammerspoon-config](https://github.com/voostindie/hammerspoon-config) - My ~/.hammerspoon directory (OS X automation scripting)
+
+## Makefile 
+
+- [hauselin/obsidian-alfred](https://github.com/hauselin/obsidian-alfred) - Alfred workflow for Obsidian note-taking app. Open vaults and files in Obsidian.
+
 ## Nim 
 
 - [sergiotapia/torrentinim](https://github.com/sergiotapia/torrentinim) - A very low memory-footprint, self hosted API-only torrent search engine. Sonarr + Radarr Compatible, native support for Linux, Mac and Windows.
 
+## Objective-C 
+
+- [kasper/phoenix](https://github.com/kasper/phoenix) - A lightweight macOS/OS X window and app manager scriptable with JavaScript
+
 ## Others 
 
+- [Dmitriy-Shulha/obsidian-css-snippets](https://github.com/Dmitriy-Shulha/obsidian-css-snippets) - Most common appearance solutions for Obsidian now in a single place. Initially collected by Klaas: https://forum.obsidian.md/t/how-to-achieve-css-code-snippets/8474
 - [chiphuyen/chiphuyen](https://github.com/chiphuyen/chiphuyen) - 
 - [eugeneyan/my-cs-degree](https://github.com/eugeneyan/my-cs-degree) - A CS degree I designed for myself, 2020
 - [binhex/documentation](https://github.com/binhex/documentation) - Documentation for software located in the binhex repositories.
@@ -126,6 +159,11 @@
 - [trinib/AdGuard-WireGuard-Unbound-Cloudflare](https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare) - Put a 🍓Raspberry-Pi🍰  to good use and get 🔒 protection | 🔎 privacy | 🚀 performance on your home network 24/7 🕛 Accessible anywhere 🌏🌑
 - [blacktwin/JBOPS](https://github.com/blacktwin/JBOPS) - Just a Bunch Of Plex Scripts
 
+## Ruby 
+
+- [voostindie/vincents-productivity-suite-for-alfred](https://github.com/voostindie/vincents-productivity-suite-for-alfred) - A CLI and automatically generated Alfred workflows to make my daily computer work more efficient.
+- [hkw1831/alfred-ticktick-with-notification](https://github.com/hkw1831/alfred-ticktick-with-notification) - Alfred with TickTick integration
+
 ## SCSS 
 
 - [jakewies/hugo-theme-codex](https://github.com/jakewies/hugo-theme-codex) - A minimal blog theme for Hugo  🍜
@@ -149,7 +187,8 @@
 
 ## TypeScript 
 
-- [calendso/calendso](https://github.com/calendso/calendso) - The open-source Calendly alternative.
+- [akaalias/obsidian-extract-pdf-highlights](https://github.com/akaalias/obsidian-extract-pdf-highlights) - Extract highlights, underlines and annotations from your PDFs into Obsidian
+- [calendso/calendso](https://github.com/calendso/calendso) - Scheduling infrastructure for absolutely everyone.
 
 
 ## License
