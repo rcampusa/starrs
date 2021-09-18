@@ -148,6 +148,7 @@
 
 ## Python 
 
+- [risaueno/obsidian_scripts](https://github.com/risaueno/obsidian_scripts) - 
 - [chiphuyen/coding-exercises](https://github.com/chiphuyen/coding-exercises) - My implementation of useful data structures, algorithms,  as well as my solutions to programming puzzles.
 - [chiphuyen/lazynlp](https://github.com/chiphuyen/lazynlp) - Library to scrape and clean web pages to create massive datasets.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
