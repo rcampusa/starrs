@@ -148,6 +148,8 @@
 
 ## Python 
 
+- [costis94/bookcut](https://github.com/costis94/bookcut) - Command Line Interface tool to download, organise and search free ebooks from your terminal in a moment.
+- [microsoft/PythonProgrammingPuzzles](https://github.com/microsoft/PythonProgrammingPuzzles) - A Dataset of Python Challenges for AI Research
 - [risaueno/obsidian_scripts](https://github.com/risaueno/obsidian_scripts) - 
 - [chiphuyen/coding-exercises](https://github.com/chiphuyen/coding-exercises) - My implementation of useful data structures, algorithms,  as well as my solutions to programming puzzles.
 - [chiphuyen/lazynlp](https://github.com/chiphuyen/lazynlp) - Library to scrape and clean web pages to create massive datasets.
@@ -190,6 +192,9 @@
 
 ## TypeScript 
 
+- [samwarnick/obsidian-simple-embeds](https://github.com/samwarnick/obsidian-simple-embeds) - 
+- [nothingislost/obsidian-workspaces-plus](https://github.com/nothingislost/obsidian-workspaces-plus) - Quickly switch and manage Obsidian workspaces
+- [TfTHacker/obsidian42-text-transporter](https://github.com/TfTHacker/obsidian42-text-transporter) - Text Transporter - advanced text management for Obsidian. Part of the Obisidan42 family of Obsidian plugins.
 - [bitwarden/cli](https://github.com/bitwarden/cli) - The command line vault (Windows, macOS, & Linux).
 - [akaalias/obsidian-extract-pdf-highlights](https://github.com/akaalias/obsidian-extract-pdf-highlights) - Extract highlights, underlines and annotations from your PDFs into Obsidian
 - [calendso/calendso](https://github.com/calendso/calendso) - Scheduling infrastructure for absolutely everyone.
