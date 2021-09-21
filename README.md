@@ -79,6 +79,7 @@
 
 ## JavaScript 
 
+- [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [m-dwyer/obsidian-vault-template](https://github.com/m-dwyer/obsidian-vault-template) - 
 - [chhoumann/Templater_Templates](https://github.com/chhoumann/Templater_Templates) - My templates for the Templater Obsidian.md plugin.
 - [rdmpage/recon16-annotation](https://github.com/rdmpage/recon16-annotation) - Code for recon16 hack day
@@ -143,6 +144,8 @@
 
 ## PHP 
 
+- [youknow0/freshrss-wallabag](https://github.com/youknow0/freshrss-wallabag) - 
+- [MatthK/swfd](https://github.com/MatthK/swfd) - Selfoss Webfront Docker
 - [kapdap/freshrss-extensions](https://github.com/kapdap/freshrss-extensions) - Unofficial FreshRSS extensions created by @Kapdap.
 - [MohamedElashri/Zotero-Docker](https://github.com/MohamedElashri/Zotero-Docker) - Docker version of Zotero dataserver and web library combined.
 
