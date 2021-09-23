@@ -126,6 +126,7 @@
 
 ## Others 
 
+- [aeleos/cloudflared](https://github.com/aeleos/cloudflared) - 
 - [Dmitriy-Shulha/obsidian-css-snippets](https://github.com/Dmitriy-Shulha/obsidian-css-snippets) - Most common appearance solutions for Obsidian now in a single place. Initially collected by Klaas: https://forum.obsidian.md/t/how-to-achieve-css-code-snippets/8474
 - [chiphuyen/chiphuyen](https://github.com/chiphuyen/chiphuyen) - 
 - [eugeneyan/my-cs-degree](https://github.com/eugeneyan/my-cs-degree) - A CS degree I designed for myself, 2020
@@ -152,6 +153,9 @@
 
 ## Python 
 
+- [myelsukov/koreader-sync](https://github.com/myelsukov/koreader-sync) - Quick and dirty implementation of the KOReader position sync server for self-hosting at home :)
+- [b1n4ryj4n/koreader-sync](https://github.com/b1n4ryj4n/koreader-sync) - Quick and dirty implementation of the KOReader position sync server for self-hosting at home :)
+- [sysdl132/m5stack-assistant](https://github.com/sysdl132/m5stack-assistant) - office assistant
 - [costis94/bookcut](https://github.com/costis94/bookcut) - Command Line Interface tool to download, organise and search free ebooks from your terminal in a moment.
 - [microsoft/PythonProgrammingPuzzles](https://github.com/microsoft/PythonProgrammingPuzzles) - A Dataset of Python Challenges for AI Research
 - [risaueno/obsidian_scripts](https://github.com/risaueno/obsidian_scripts) - 
