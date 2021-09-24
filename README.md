@@ -91,6 +91,7 @@
 
 ## Jupyter Notebook 
 
+- [hammadshaikhha/Data-Science-and-Machine-Learning-from-Scratch](https://github.com/hammadshaikhha/Data-Science-and-Machine-Learning-from-Scratch) - Implements common data science methods and machine learning algorithms from scratch in python. Intuition and theory behind the algorithms is also discussed.
 - [chiphuyen/python-is-cool](https://github.com/chiphuyen/python-is-cool) - Cool Python features for machine learning that I used to be too afraid to use. Will be updated as I have more time / learn more.
 - [chiphuyen/just-pandas-things](https://github.com/chiphuyen/just-pandas-things) - An ongoing list of pandas quirks
 - [gboeing/latin-america-streets](https://github.com/gboeing/latin-america-streets) - 
@@ -126,6 +127,7 @@
 
 ## Others 
 
+- [hammadshaikhha/Causal-Inference-Mastery](https://github.com/hammadshaikhha/Causal-Inference-Mastery) - Notes and simulations on graduate level causal inference in statistics with applications to social sciences.
 - [aeleos/cloudflared](https://github.com/aeleos/cloudflared) - 
 - [Dmitriy-Shulha/obsidian-css-snippets](https://github.com/Dmitriy-Shulha/obsidian-css-snippets) - Most common appearance solutions for Obsidian now in a single place. Initially collected by Klaas: https://forum.obsidian.md/t/how-to-achieve-css-code-snippets/8474
 - [chiphuyen/chiphuyen](https://github.com/chiphuyen/chiphuyen) - 
@@ -190,6 +192,7 @@
 
 ## Stata 
 
+- [hammadshaikhha/Data-Analysis-Coding-Tutorials](https://github.com/hammadshaikhha/Data-Analysis-Coding-Tutorials) - Introduction to different types of data analysis in Stata, Matlab, and R.
 - [sergiocorreia/reghdfe](https://github.com/sergiocorreia/reghdfe) - Linear, IV and GMM Regressions With Any Number of Fixed Effects
 - [gslab-econ/gslab_stata](https://github.com/gslab-econ/gslab_stata) - 
 - [ledwindra/continuous-integration-stata](https://github.com/ledwindra/continuous-integration-stata) - 🏃🏽 Stata remotely to 📈♻️ | 📢 v1 is out! https://github.com/marketplace/actions/stata-action 📢
@@ -200,6 +203,7 @@
 
 ## TypeScript 
 
+- [jupyterlab/jupyterlab_app](https://github.com/jupyterlab/jupyterlab_app) - A desktop application for JupyterLab, based on Electron.
 - [samwarnick/obsidian-simple-embeds](https://github.com/samwarnick/obsidian-simple-embeds) - 
 - [nothingislost/obsidian-workspaces-plus](https://github.com/nothingislost/obsidian-workspaces-plus) - Quickly switch and manage Obsidian workspaces
 - [TfTHacker/obsidian42-text-transporter](https://github.com/TfTHacker/obsidian42-text-transporter) - Text Transporter - advanced text management for Obsidian. Part of the Obisidan42 family of Obsidian plugins.
