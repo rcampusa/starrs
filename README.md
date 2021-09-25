@@ -91,6 +91,7 @@
 
 ## Jupyter Notebook 
 
+- [pysal/segregation](https://github.com/pysal/segregation) - Segregation Analysis, Inference, and Decomposition
 - [hammadshaikhha/Data-Science-and-Machine-Learning-from-Scratch](https://github.com/hammadshaikhha/Data-Science-and-Machine-Learning-from-Scratch) - Implements common data science methods and machine learning algorithms from scratch in python. Intuition and theory behind the algorithms is also discussed.
 - [chiphuyen/python-is-cool](https://github.com/chiphuyen/python-is-cool) - Cool Python features for machine learning that I used to be too afraid to use. Will be updated as I have more time / learn more.
 - [chiphuyen/just-pandas-things](https://github.com/chiphuyen/just-pandas-things) - An ongoing list of pandas quirks
@@ -155,6 +156,9 @@
 
 ## Python 
 
+- [SciTools/cartopy](https://github.com/SciTools/cartopy) - Cartopy - a cartographic python library with matplotlib support
+- [spatialucr/geosnap](https://github.com/spatialucr/geosnap) - Geospatial Neighborhood Analysis Package
+- [martinfleis/momepy](https://github.com/martinfleis/momepy) - Urban Morphology Measuring Toolkit
 - [myelsukov/koreader-sync](https://github.com/myelsukov/koreader-sync) - Quick and dirty implementation of the KOReader position sync server for self-hosting at home :)
 - [b1n4ryj4n/koreader-sync](https://github.com/b1n4ryj4n/koreader-sync) - Quick and dirty implementation of the KOReader position sync server for self-hosting at home :)
 - [sysdl132/m5stack-assistant](https://github.com/sysdl132/m5stack-assistant) - office assistant
