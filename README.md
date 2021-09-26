@@ -156,6 +156,7 @@
 
 ## Python 
 
+- [Sibyx/EvilFlowersCatalog](https://github.com/Sibyx/EvilFlowersCatalog) - Simple books catalog compatible with OPDS 1.2 written in Python
 - [SciTools/cartopy](https://github.com/SciTools/cartopy) - Cartopy - a cartographic python library with matplotlib support
 - [spatialucr/geosnap](https://github.com/spatialucr/geosnap) - Geospatial Neighborhood Analysis Package
 - [martinfleis/momepy](https://github.com/martinfleis/momepy) - Urban Morphology Measuring Toolkit
