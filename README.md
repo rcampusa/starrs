@@ -61,11 +61,12 @@
 - [blacs30/bitwarden-alfred-workflow](https://github.com/blacs30/bitwarden-alfred-workflow) - Simple Bitwarden Workflow for Alfred
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [sniptt-official/ots](https://github.com/sniptt-official/ots) - 🔐 Share end-to-end encrypted secrets with others via a one-time URL
-- [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted newsletter and mailing list manager with a modern dashboard. Single binary app.
+- [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 
 ## HTML 
 
+- [sergiocorreia/ppmlhdfe](https://github.com/sergiocorreia/ppmlhdfe) - Poisson pseudo-likelihood regression with multiple levels of fixed effects
 - [JakeHartnell/HypothesisReader](https://github.com/JakeHartnell/HypothesisReader) - An integration of Hypothes.is and Epub.js
 - [chiphuyen/requests-for-research](https://github.com/chiphuyen/requests-for-research) - A living collection of deep learning problems
 - [chiphuyen/ml-interviews-book](https://github.com/chiphuyen/ml-interviews-book) - https://huyenchip.com/ml-interviews-book/
@@ -157,7 +158,8 @@
 
 ## Python 
 
-- [Sibyx/EvilFlowersCatalog](https://github.com/Sibyx/EvilFlowersCatalog) - Simple books catalog compatible with OPDS 1.2 written in Python
+- [anufrievroman/Angry-Reviewer](https://github.com/anufrievroman/Angry-Reviewer) - Style corrector for academic writing and scientific papers at angryreviewer.com
+- [EvilFlowersCatalog/EvilFlowersCatalog](https://github.com/EvilFlowersCatalog/EvilFlowersCatalog) - Simple books catalog compatible with OPDS 1.2 written in Python
 - [SciTools/cartopy](https://github.com/SciTools/cartopy) - Cartopy - a cartographic python library with matplotlib support
 - [spatialucr/geosnap](https://github.com/spatialucr/geosnap) - Geospatial Neighborhood Analysis Package
 - [martinfleis/momepy](https://github.com/martinfleis/momepy) - Urban Morphology Measuring Toolkit
@@ -210,7 +212,7 @@
 ## TypeScript 
 
 - [jupyterlab/jupyterlab_app](https://github.com/jupyterlab/jupyterlab_app) - A desktop application for JupyterLab, based on Electron.
-- [samwarnick/obsidian-simple-embeds](https://github.com/samwarnick/obsidian-simple-embeds) - 
+- [samwarnick/obsidian-simple-embeds](https://github.com/samwarnick/obsidian-simple-embeds) - A plugin for Obsidian that automatically turns links into embeds.
 - [nothingislost/obsidian-workspaces-plus](https://github.com/nothingislost/obsidian-workspaces-plus) - Quickly switch and manage Obsidian workspaces
 - [TfTHacker/obsidian42-text-transporter](https://github.com/TfTHacker/obsidian42-text-transporter) - Text Transporter - advanced text management for Obsidian. Part of the Obisidan42 family of Obsidian plugins.
 - [bitwarden/cli](https://github.com/bitwarden/cli) - The command line vault (Windows, macOS, & Linux).
