@@ -162,7 +162,7 @@
 - [EvilFlowersCatalog/EvilFlowersCatalog](https://github.com/EvilFlowersCatalog/EvilFlowersCatalog) - Simple books catalog compatible with OPDS 1.2 written in Python
 - [SciTools/cartopy](https://github.com/SciTools/cartopy) - Cartopy - a cartographic python library with matplotlib support
 - [spatialucr/geosnap](https://github.com/spatialucr/geosnap) - Geospatial Neighborhood Analysis Package
-- [martinfleis/momepy](https://github.com/martinfleis/momepy) - Urban Morphology Measuring Toolkit
+- [pysal/momepy](https://github.com/pysal/momepy) - Urban Morphology Measuring Toolkit
 - [myelsukov/koreader-sync](https://github.com/myelsukov/koreader-sync) - Quick and dirty implementation of the KOReader position sync server for self-hosting at home :)
 - [b1n4ryj4n/koreader-sync](https://github.com/b1n4ryj4n/koreader-sync) - Quick and dirty implementation of the KOReader position sync server for self-hosting at home :)
 - [sysdl132/m5stack-assistant](https://github.com/sysdl132/m5stack-assistant) - office assistant
