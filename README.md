@@ -141,6 +141,7 @@
 
 ## Others 
 
+- [JoeWDavies/geoblender](https://github.com/JoeWDavies/geoblender) - Tutorials for making 3D-looking maps with Blender and QGIS
 - [hammadshaikhha/Causal-Inference-Mastery](https://github.com/hammadshaikhha/Causal-Inference-Mastery) - Notes and simulations on graduate level causal inference in statistics with applications to social sciences.
 - [aeleos/cloudflared](https://github.com/aeleos/cloudflared) - 
 - [Dmitriy-Shulha/obsidian-css-snippets](https://github.com/Dmitriy-Shulha/obsidian-css-snippets) - Most common appearance solutions for Obsidian now in a single place. Initially collected by Klaas: https://forum.obsidian.md/t/how-to-achieve-css-code-snippets/8474
@@ -208,6 +209,8 @@
 
 ## Shell 
 
+- [Botspot/pi-apps](https://github.com/Botspot/pi-apps) - Raspberry Pi App Store for Open Source Projects
+- [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted) - Raspberry Pi Self Hosted Server Based on Docker / Portainer.io
 - [bcardiff/docker-rclone](https://github.com/bcardiff/docker-rclone) - Docker image to use rclone to run cron sync with monitoring
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [SpartacusIam/unraid-scripts](https://github.com/SpartacusIam/unraid-scripts) - 
