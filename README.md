@@ -217,6 +217,7 @@
 
 ## Stata 
 
+- [asjadnaqvi/Stata-schemes](https://github.com/asjadnaqvi/Stata-schemes) - Here you will find various ready-to-use Stata schemes.
 - [borusyak/did_imputation](https://github.com/borusyak/did_imputation) - Event studies: robust and efficient estimation, testing, and plotting
 - [hammadshaikhha/Data-Analysis-Coding-Tutorials](https://github.com/hammadshaikhha/Data-Analysis-Coding-Tutorials) - Introduction to different types of data analysis in Stata, Matlab, and R.
 - [sergiocorreia/reghdfe](https://github.com/sergiocorreia/reghdfe) - Linear, IV and GMM Regressions With Any Number of Fixed Effects
