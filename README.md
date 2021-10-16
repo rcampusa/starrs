@@ -42,6 +42,7 @@
 
 ## C++ 
 
+- [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [disk91/WioLoRaWANFieldTester](https://github.com/disk91/WioLoRaWANFieldTester) - 
 - [jcarolinares/M5stack-programs](https://github.com/jcarolinares/M5stack-programs) - A M5stack repository with useful and interesting programs
 
