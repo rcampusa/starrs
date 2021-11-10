@@ -142,6 +142,7 @@
 
 ## Others 
 
+- [kojino/120-Data-Science-Interview-Questions](https://github.com/kojino/120-Data-Science-Interview-Questions) - Answers to 120 commonly asked data science interview questions.
 - [JoeWDavies/geoblender](https://github.com/JoeWDavies/geoblender) - Tutorials for making 3D-looking maps with Blender and QGIS
 - [hammadshaikhha/Causal-Inference-Mastery](https://github.com/hammadshaikhha/Causal-Inference-Mastery) - Notes and simulations on graduate level causal inference in statistics with applications to social sciences.
 - [aeleos/cloudflared](https://github.com/aeleos/cloudflared) - 
@@ -171,6 +172,7 @@
 
 ## Python 
 
+- [cdeweyx/DS-Career-Resources](https://github.com/cdeweyx/DS-Career-Resources) - Compilation of resources and insights that helped me on my journey to data scientist
 - [bbilly1/tubearchivist](https://github.com/bbilly1/tubearchivist) - Your self hosted YouTube media server
 - [speedyg0nz/MagInkCal](https://github.com/speedyg0nz/MagInkCal) - E-Ink Magic Calendar that automatically syncs to Google Calendar and runs off a battery powered Raspberry Pi Zero
 - [benjaminvatterj/JobMarketTracker](https://github.com/benjaminvatterj/JobMarketTracker) - A simple economics job market application tracker
