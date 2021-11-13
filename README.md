@@ -165,6 +165,7 @@
 
 ## PHP 
 
+- [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted) - Raspberry Pi Self Hosted Server Based on Docker / Portainer.io
 - [youknow0/freshrss-wallabag](https://github.com/youknow0/freshrss-wallabag) - 
 - [MatthK/swfd](https://github.com/MatthK/swfd) - Selfoss Webfront Docker
 - [kapdap/freshrss-extensions](https://github.com/kapdap/freshrss-extensions) - Unofficial FreshRSS extensions created by @Kapdap.
@@ -215,7 +216,6 @@
 
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for Raspberry Pi or any Linux distro for running self-hosted apps
 - [Botspot/pi-apps](https://github.com/Botspot/pi-apps) - Raspberry Pi App Store for Open Source Projects
-- [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted) - Raspberry Pi Self Hosted Server Based on Docker / Portainer.io
 - [bcardiff/docker-rclone](https://github.com/bcardiff/docker-rclone) - Docker image to use rclone to run cron sync with monitoring
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [SpartacusIam/unraid-scripts](https://github.com/SpartacusIam/unraid-scripts) - 
