@@ -231,7 +231,7 @@
 
 ## Swift 
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥  Control your external monitor brightness & volume on your Mac
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 - [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS
 
 ## TypeScript 
