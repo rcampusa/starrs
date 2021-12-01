@@ -144,6 +144,7 @@
 
 ## Others 
 
+- [toriagibbs-zz/toronto-tech-scene](https://github.com/toriagibbs-zz/toronto-tech-scene) - A list of tech employers located in Toronto and the GTA or who hire remotely in Ontario
 - [kojino/120-Data-Science-Interview-Questions](https://github.com/kojino/120-Data-Science-Interview-Questions) - Answers to 120 commonly asked data science interview questions.
 - [JoeWDavies/geoblender](https://github.com/JoeWDavies/geoblender) - Tutorials for making 3D-looking maps with Blender and QGIS
 - [hammadshaikhha/Causal-Inference-Mastery](https://github.com/hammadshaikhha/Causal-Inference-Mastery) - Notes and simulations on graduate level causal inference in statistics with applications to social sciences.
