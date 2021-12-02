@@ -89,7 +89,7 @@
 
 ## JavaScript 
 
-- [addyire/ha-menu](https://github.com/addyire/ha-menu) - A way to interact with Home Assistant in the macOS menu bar.
+- [addyire/ha-menu](https://github.com/addyire/ha-menu) - An app to interact with Home Assistant in the macOS menu bar.
 - [dhanishgajjar/vscode-icons](https://github.com/dhanishgajjar/vscode-icons) - Custom Visual Studio Code Icons
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [m-dwyer/obsidian-vault-template](https://github.com/m-dwyer/obsidian-vault-template) - 
