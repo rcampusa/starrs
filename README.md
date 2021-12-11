@@ -81,7 +81,7 @@
 - [ojroques/hugo-researcher](https://github.com/ojroques/hugo-researcher) - A simple resume theme for Hugo
 - [ledwindra/today-i-learned](https://github.com/ledwindra/today-i-learned) - A list of my #TILs. 📝
 - [yihui/hugo-xmin](https://github.com/yihui/hugo-xmin) - eXtremely Minimal Hugo theme: about 150 lines of code in total, including HTML and CSS (with no dependencies)
-- [techno-tim/techno-tim.github.io](https://github.com/techno-tim/techno-tim.github.io) - Documentation for Techno Tim YouTube Videos
+- [techno-tim/techno-tim.github.io](https://github.com/techno-tim/techno-tim.github.io) - Open Source, Community Driven, Documentation for Techno Tim YouTube Videos
 
 ## Java 
 
