@@ -49,6 +49,7 @@
 
 ## CSS 
 
+- [chrisgrieser/shimmering-obsidian](https://github.com/chrisgrieser/shimmering-obsidian) - Alfred Workflow for various enhancements of Obsidian.
 - [bcdavasconcelos/Themes](https://github.com/bcdavasconcelos/Themes) - Themes I either made or adapted for Alfred, Connected Text, Folding Text, Golden Dict, Obsidian, OmniOutliner, Outlinely, Scapple, Scrivener, Tinderbox, and Ulysses.
 
 ## Clojure 
@@ -96,7 +97,6 @@
 - [chhoumann/Templater_Templates](https://github.com/chhoumann/Templater_Templates) - My templates for the Templater Obsidian.md plugin.
 - [rdmpage/recon16-annotation](https://github.com/rdmpage/recon16-annotation) - Code for recon16 hack day
 - [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.
-- [chrisgrieser/shimmering-obsidian](https://github.com/chrisgrieser/shimmering-obsidian) - Alfred Workflow for various enhancements of Obsidian.
 - [fabiospampinato/phoenix](https://github.com/fabiospampinato/phoenix) - My Phoenix setup. Powerful, easy to customize, tuned for web development, adds a space switcher.
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated interview preparation materials for busy engineers
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
