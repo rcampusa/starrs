@@ -186,7 +186,7 @@
 - [spatialucr/geosnap](https://github.com/spatialucr/geosnap) - Geospatial Neighborhood Analysis Package
 - [pysal/momepy](https://github.com/pysal/momepy) - Urban Morphology Measuring Toolkit
 - [myelsukov/koreader-sync](https://github.com/myelsukov/koreader-sync) - Quick and dirty implementation of the KOReader position sync server for self-hosting at home :)
-- [b1n4ryj4n/koreader-sync](https://github.com/b1n4ryj4n/koreader-sync) - Quick and dirty implementation of the KOReader position sync server for self-hosting at home :)
+- [b1n4ryj4n/koreader-sync](https://github.com/b1n4ryj4n/koreader-sync) - Simple implementation of the KOReader position sync server for self-hosting at home :)
 - [sysdl132/m5stack-assistant](https://github.com/sysdl132/m5stack-assistant) - office assistant
 - [costis94/bookcut](https://github.com/costis94/bookcut) - Command Line Interface tool to download, organise and search free ebooks from your terminal in a moment.
 - [microsoft/PythonProgrammingPuzzles](https://github.com/microsoft/PythonProgrammingPuzzles) - A Dataset of Python Challenges for AI Research
