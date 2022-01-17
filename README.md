@@ -66,7 +66,7 @@
 
 ## Go 
 
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈 🎄
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈 ✨
 - [blacs30/bitwarden-alfred-workflow](https://github.com/blacs30/bitwarden-alfred-workflow) - Simple Bitwarden Workflow for Alfred
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [sniptt-official/ots](https://github.com/sniptt-official/ots) - 🔐 Share end-to-end encrypted secrets with others via a one-time URL
@@ -186,7 +186,7 @@
 - [spatialucr/geosnap](https://github.com/spatialucr/geosnap) - Geospatial Neighborhood Analysis Package
 - [pysal/momepy](https://github.com/pysal/momepy) - Urban Morphology Measuring Toolkit
 - [myelsukov/koreader-sync](https://github.com/myelsukov/koreader-sync) - Quick and dirty implementation of the KOReader position sync server for self-hosting at home :)
-- [b1n4ryj4n/koreader-sync](https://github.com/b1n4ryj4n/koreader-sync) - Simple implementation of the KOReader position sync server for self-hosting at home :)
+- [b1n4ryj4n/koreader-sync](https://github.com/b1n4ryj4n/koreader-sync) - Simple implementation of the KOReader position sync server for self-hosting at home which has docker support for arm and amd64 :)
 - [sysdl132/m5stack-assistant](https://github.com/sysdl132/m5stack-assistant) - office assistant
 - [costis94/bookcut](https://github.com/costis94/bookcut) - Command Line Interface tool to download, organise and search free ebooks from your terminal in a moment.
 - [microsoft/PythonProgrammingPuzzles](https://github.com/microsoft/PythonProgrammingPuzzles) - A Dataset of Python Challenges for AI Research
