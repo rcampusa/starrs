@@ -201,7 +201,7 @@
 - [hellerve/programming-talks](https://github.com/hellerve/programming-talks) - Awesome & interesting talks about programming
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [tomlinsonk/choice-set-confounding](https://github.com/tomlinsonk/choice-set-confounding) - Code accompanying our KDD 2021 paper "Choice Set Confounding in Discrete Choice"
-- [trinib/AdGuard-WireGuard-Unbound-Cloudflare](https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare) - Put a 🍓Raspberry-Pi🍰  to good use and get 🔒 protection | 🔎 privacy | 🚀 performance on your home network 24/7 🕛 Accessible anywhere 🌏🌑
+- [trinib/AdGuard-WireGuard-Unbound-Cloudflare](https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare) - 🍓Raspberry-Pi🍰 Ultimate Security Guide | 🔒 Protection | 🔎 Privacy | 🚀 Performance on home network 24/7 🕛 Accessible anywhere 🌏🌑
 - [blacktwin/JBOPS](https://github.com/blacktwin/JBOPS) - Just a Bunch Of Plex Scripts
 
 ## Ruby 
